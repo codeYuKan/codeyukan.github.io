@@ -1,0 +1,6 @@
+*.iml
+.idea
+logs-web
+target
+.flattened-pom.xml
+.DS_Store
